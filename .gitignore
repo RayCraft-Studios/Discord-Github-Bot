@@ -1,0 +1,10 @@
+# User-specific files
+.vs/
+.idea/
+*.suo
+*.user
+*.bat
+
+# Build results
+bin/
+obj/
